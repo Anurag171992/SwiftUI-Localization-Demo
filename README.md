@@ -46,24 +46,7 @@ A demo project showcasing **localization in SwiftUI** using `LocalizedStringKey`
 ---
 
 ## 📷 Screenshots
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="./Screenshots/Hindi/Hindi.png" alt="Hindi" width="250"/><br/>
-      Hindi
-    </td>
-    <td align="center">
-      <img src="./Screenshots/Arabic/Arabic.png" alt="Arabic" width="250"/><br/>
-      Arabic
-    </td>
-    <td align="center">
-      <img src="./Screenshots/German/German.png" alt="German" width="250"/><br/>
-      German
-    </td>
-    <td align="center">
-      <img src="./Screenshots/English/English.png" alt="English" width="250"/><br/>
-      English
-    </td>
-  </tr>
-</table>
+<img src="./Screenshots/Hindi/Hindi.png" alt="Hindi" width="250"/>
+<img src="./Screenshots/Arabic/Arabic.png" alt="Arabic" width="250"/>
+<img src="./Screenshots/German/German.png" alt="German" width="250"/>
+<img src="./Screenshots/English/English.png" alt="English" width="250"/>
