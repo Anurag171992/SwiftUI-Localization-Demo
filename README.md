@@ -26,8 +26,6 @@ A demo project showcasing **localization in SwiftUI** using `LocalizedStringKey`
 
 ## 🧪 Testing
 - Run in Simulator with different languages (English, Hindi, German)
-- Verify RTL layouts with Arabic/Hebrew
-- Use pseudolocalization to catch truncation/overflow
 
 ---
 
