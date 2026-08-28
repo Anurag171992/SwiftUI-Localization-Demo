@@ -58,10 +58,11 @@ A demo project showcasing **localization in SwiftUI** using `LocalizedStringKey`
       <img src="Screenshots/German.png" alt="German" width="250"/><br/>
       German
     </td>
-        <td align="center">
+    <td align="center">
       <img src="Screenshots/English.png" alt="English" width="250"/><br/>
       English
     </td>
   </tr>
 </table>
+
 
