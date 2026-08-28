@@ -129,3 +129,9 @@ struct TextBookStoreView: View {
     LocalizationDemoView()
         .environment(\.locale, Locale(identifier: "HI"))
 }
+
+#Preview("Arabic RTL") {
+    LocalizationDemoView()
+        .environment(\.locale, Locale(identifier: "ar"))
+        .environment(\.layoutDirection, .rightToLeft)
+}
